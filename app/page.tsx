@@ -92,15 +92,6 @@ export default function Home() {
                     Get Started
                   </Button>
                 </Link>
-                <Link href="/stores">
-                  <Button
-                    size="lg"
-                    variant="outline"
-                    className="border-purple-400 hover:bg-purple-100 hover:text-purple-700 dark:hover:bg-purple-900 dark:hover:text-purple-300"
-                  >
-                    Browse Stores
-                  </Button>
-                </Link>
               </motion.div>
             </div>
           </div>
